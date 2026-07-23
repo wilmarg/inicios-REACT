@@ -11,6 +11,7 @@ const evaluar = () =>{
 
 }
 
+
 //evaluar(); si lo hago de esta manera, se ejecuta 1ro la orden dada (para este caso la funcion) y despues es que corre la pag 
 
 setTimeout(evaluar, 3000); //haciendo lo de esta manera ocurre el caso contrario a lo anterior
